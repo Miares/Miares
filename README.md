@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://discord.com/users/692655071967576074" target"blank_"><img src="https://img.shields.io/badge/Champ%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://www.github.com/LolAhmet61" target"blank_"><img src="https://img.shields.io/badge/Champ%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.github.com/Champ018" target"blank_"><img src="https://img.shields.io/badge/Champ%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 
 # ✨ Hakkımda
