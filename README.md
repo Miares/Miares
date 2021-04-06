@@ -6,7 +6,7 @@
 # ✨ Hakkımda
 
 Merhaba, ben Ahmet. 1-2 Yıldır Yazılım İle Uğraşıyorum. Genellikle Node.js,C Ve Html kodluyorum. Yazılıma yeni atıldığım için üst düzey bir yazılımcı değilim. Hobilerim insanlara yardım etmek, bisiklet sürmek ve film izlemek. Discord üzerinden bana ulaşmaktan ve konuşmaktan çekinme.
-## 📈 Github İstatistikleri (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+## 📈 Github İstatistikleri (API Kaynağı: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Champ018&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
