@@ -5,7 +5,7 @@
 
 # ✨ Hakkımda
 
-Merhaba, ben Ahmet. 1-2 Yıldır Yazılım İle Uğraşıyorum. Genellikle Node.js,C Ve Html kodluyorum. Yazılıma yeni atıldığım için üst düzey bir yazılımcı değilim. Hobilerim insanlara yardım etmek, bisiklet sürmek ve film izlemek. Discord üzerinden bana ulaşmaktan ve konuşmaktan çekinme.
+Merhaba, ben Ahmet. 1-2 Yıldır Yazılım İle Uğraşıyorum. Genellikle Node.js,C Ve Html kodluyorum. Hobilerim insanlara yardım etmek, bisiklet sürmek ve film izlemek. Discord üzerinden bana ulaşmaktan ve konuşmaktan çekinme.
 ## 📈 Github İstatistikleri (API Kaynağı: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 
 <p align="center">
