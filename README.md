@@ -3,10 +3,11 @@
   <a href="https://www.github.com/Champ018" target"blank_"><img src="https://img.shields.io/badge/Champ%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 
 
-# ✨ Hakkımda
+# ✨ About
 
-Merhaba, ben Ahmet. 1-2 Yıldır Yazılım İle Uğraşıyorum. Genellikle Node.js,C Ve Html kodluyorum. Hobilerim insanlara yardım etmek, bisiklet sürmek ve film izlemek. Discord üzerinden bana ulaşmaktan ve konuşmaktan çekinme.
-## 📈 Github İstatistikleri (API Kaynağı: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+Hi! I am Ahmet. I am a C/Node.js/Html developer. I am a back end developer. If you need help, you can dm from [discord](https://discord.com/users/692655071967576074).
+ 
+## 📈 Github Statics
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Champ018&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
