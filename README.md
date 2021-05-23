@@ -5,7 +5,7 @@
 
 # ✨ About
 
-Hi! I am Ahmet. I am a C/Node.js/Html developer. I am a back end developer. If you need help, you can dm from [discord](https://discord.com/users/692655071967576074).
+Hi! I am Ahmet. I am a C/Node.js/Html developer. If you need help, you can dm from [discord](https://discord.com/users/692655071967576074).
  
 ## 📈 Github Statics
 
