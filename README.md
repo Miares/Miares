@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Witcher. 👋</h1>
+<h1 align="center">Hi, I'm Miares. 👋</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&color=C9D1D9&width=1024&lines=🖥️+I'm+a+backend+developer+with+two+year+of+experience." alt="WitcherDevs"/> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&color=C9D1D9&width=1024&lines=🖥️+I'm+a+backend+developer+with+two+year+of+experience." alt="Miares"/> </p>
 
-<p align="center"> <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WitcherDevs&theme=tokyonight" /> </p>
+<p align="center"> <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Miares&theme=tokyonight" /> </p>
 
 <h2 align="center">Languages & Frameworks & Library & Tools</h2>
 <div align="center">
@@ -23,6 +23,6 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://discord.gg/users/692655071967576074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miares" height="30" width="40" /></a>
-<a href="https://discord.gg/serendia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Serendia Squad" height="30" width="40" /></a>
+<a href="https://discord.gg/serendia" target="blank"><img align="center" src="https://serendiasquad.net/favicon.ico" alt="Serendia Squad" height="30" width="40" /></a>
 </p>
 
