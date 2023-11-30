@@ -20,6 +20,5 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://discord.gg/users/692655071967576074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="miares" height="30" width="40" /></a>
-<a href="https://discord.gg/serendia" target="blank"><img align="center" src="https://serendiasquad.net/favicon.ico" alt="Serendia Squad" height="30" width="40" /></a>
 </p>
 
